@@ -1,13 +1,13 @@
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
-  background: #4B5320; /* gelap utama */
+  background: #445414; /* gelap utama */
   color: #e0e0e0;      /* teks terang */
 }
 
 header {
   background: linear-gradient(135deg, #3e2723, #5d4037); /* coklat tua */
-  color: #f5f5f5;
+  color: #35410f;
   padding: 1.5rem;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -100,3 +100,4 @@ footer {
   padding: 1rem;
   margin-top: 2rem;
 }
+
